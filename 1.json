@@ -1,116 +1,116 @@
 [
-   {
-     "DishName": "Крабовые лепешки с лимонно-укропным соусом",
-     "Link": "https://1000.menu/cooking/12",
-     "Rating": 26,
-     "ServingsNumber": 4,
-     "Calories": 299,
-     "Ingredients": [
-   	{
-   	  "Quantity": 3,
-   	  "Name": "Сливочное масло",
-   	  "Type": "стол.л."
-   	},
-   	{
-   	  "Quantity": 2,
-   	  "Name": "Растительное масло",
-   	  "Type": "стол.л."
-   	},
-   	{
-   	  "Quantity": 0.5,
-   	  "Name": "Болгарский перец",
-   	  "Type": "шт."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Чеснок",
-   	  "Type": "зубч."
-   	},
-   	{
-   	  "Quantity": 3,
-   	  "Name": "Сливки жирные",
-   	  "Type": "стол.л."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Горчица",
-   	  "Type": "стол.л."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Куриные яйца",
-   	  "Type": "шт."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Петрушка",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Зелёный лук",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 130,
-   	  "Name": "Сухарики",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 50,
-   	  "Name": "Пармезан",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 450,
-   	  "Name": "Крабовое мясо",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 0,
-   	  "Name": "Соль",
-   	  "Type": "по вкусу"
-   	},
-   	{
-   	  "Quantity": 0,
-   	  "Name": "Перец черный молотый",
-   	  "Type": "по вкусу"
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Чеснок",
-   	  "Type": "зубч."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Петрушка",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Майонез",
-   	  "Type": "стак."
-   	},
-   	{
-   	  "Quantity": 0.25,
-   	  "Name": "Обезжиренные сливки",
-   	  "Type": "стак."
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Укроп",
-   	  "Type": "гр"
-   	},
-   	{
-   	  "Quantity": 1,
-   	  "Name": "Лимонная цедра",
-   	  "Type": "стол.л."
-   	},
-   	{
-   	  "Quantity": 2,
-   	  "Name": "Лимонный сок",
-   	  "Type": "чайн.л."
-   	}
-     ]
-   }
+ {
+   "DishName": "Крабовые лепешки с лимонно-укропным соусом",
+   "Link": "https://1000.menu/cooking/12",
+   "Rating": 26,
+   "ServingsNumber": 4,
+   "Calories": 299,
+   "Ingredients": [
+ 	{
+ 	  "Quantity": 3,
+ 	  "Name": "Сливочное масло",
+ 	  "Type": "стол.л."
+ 	},
+ 	{
+ 	  "Quantity": 2,
+ 	  "Name": "Растительное масло",
+ 	  "Type": "стол.л."
+ 	},
+ 	{
+ 	  "Quantity": 0.5,
+ 	  "Name": "Болгарский перец",
+ 	  "Type": "шт."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Чеснок",
+ 	  "Type": "зубч."
+ 	},
+ 	{
+ 	  "Quantity": 3,
+ 	  "Name": "Сливки жирные",
+ 	  "Type": "стол.л."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Горчица",
+ 	  "Type": "стол.л."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Куриные яйца",
+ 	  "Type": "шт."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Петрушка",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Зелёный лук",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 130,
+ 	  "Name": "Сухарики",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 50,
+ 	  "Name": "Пармезан",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 450,
+ 	  "Name": "Крабовое мясо",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 0,
+ 	  "Name": "Соль",
+ 	  "Type": "по вкусу"
+ 	},
+ 	{
+ 	  "Quantity": 0,
+ 	  "Name": "Перец черный молотый",
+ 	  "Type": "по вкусу"
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Чеснок",
+ 	  "Type": "зубч."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Петрушка",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Майонез",
+ 	  "Type": "стак."
+ 	},
+ 	{
+ 	  "Quantity": 0.25,
+ 	  "Name": "Обезжиренные сливки",
+ 	  "Type": "стак."
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Укроп",
+ 	  "Type": "гр"
+ 	},
+ 	{
+ 	  "Quantity": 1,
+ 	  "Name": "Лимонная цедра",
+ 	  "Type": "стол.л."
+ 	},
+ 	{
+ 	  "Quantity": 2,
+ 	  "Name": "Лимонный сок",
+ 	  "Type": "чайн.л."
+ 	}
+  ]
+ }
 ]
