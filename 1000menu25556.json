@@ -1,7 +1,8 @@
 [
   {
-    "DishName": "Крабовые лепешки с лимонно-укропным соусом",
+    "Name": "Крабовые лепешки с лимонно-укропным соусом",
     "Link": "https://1000.menu/cooking/12",
+    "ImageLink": "https:////static.1000.menu/res/640/img/content/12/krabovje-lepeshki-s-limonno-ukropnjm-sousom_1531208814_2_max.jpg",
     "Rating": 26,
     "ServingsNumber": 4,
     "Calories": 299,
@@ -114,8 +115,9 @@
     ]
   },
   {
-    "DishName": "Креветки на гриле (мангале) в чесночном соусе с медом",
+    "Name": "Креветки на гриле (мангале) в чесночном соусе с медом",
     "Link": "https://1000.menu/cooking/13",
+    "ImageLink": "https:////static.1000.menu/res/640/img/content/13/krevetki-gril-v-chesnochnom-souse_1555040042_2_max.jpg",
     "Rating": 84,
     "ServingsNumber": 4,
     "Calories": 297,
@@ -169,6 +171,366 @@
         "Quantity": 200,
         "Name": "Сливочное масло",
         "Type": "гр"
+      }
+    ]
+  },
+  {
+    "Name": "Курица с артишоками в лимонном соусе",
+    "Link": "https://1000.menu/cooking/15",
+    "ImageLink": "https:////static.1000.menu/res/640/cookme/images/recipe/kuritsa_s_artishokami_v_limonnom_souse_1286017712_5.jpg",
+    "Rating": 17,
+    "ServingsNumber": 3,
+    "Calories": 105,
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Name": "Оливковое масло",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Базилик",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 3,
+        "Name": "Чеснок",
+        "Type": "зубч."
+      },
+      {
+        "Quantity": 250,
+        "Name": "Артишоки",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Лимонный сок",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Лимонная цедра",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 0.5,
+        "Name": "Лук",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 700,
+        "Name": "Куриное филе",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 0.66,
+        "Name": "Вино белое",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 0.33,
+        "Name": "Вода",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 0,
+        "Name": "Соль",
+        "Type": "по вкусу"
+      }
+    ]
+  },
+  {
+    "Name": "Куриная грудка в духовке с картошкой и сыром",
+    "Link": "https://1000.menu/cooking/16",
+    "ImageLink": "https:////static.1000.menu/res/640/img/content/28835/kurinaya-grudka-s-kartoshkoi-v-duxovke_1537678667_14_max.jpg",
+    "Rating": 68,
+    "ServingsNumber": 4,
+    "Calories": 129,
+    "Ingredients": [
+      {
+        "Quantity": 250,
+        "Name": "Куриные грудки",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 4,
+        "Name": "Картошка",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 20,
+        "Name": "Лук репчатый",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Болгарский перец",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 100,
+        "Name": "Твёрдый сыр",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 25,
+        "Name": "Соевый соус",
+        "Type": "мл"
+      },
+      {
+        "Quantity": 0,
+        "Name": "Соль",
+        "Type": "по вкусу"
+      },
+      {
+        "Quantity": 0,
+        "Name": "Перец черный молотый",
+        "Type": "по вкусу"
+      },
+      {
+        "Quantity": 30,
+        "Name": "Подсолнечное масло",
+        "Type": "мл"
+      }
+    ]
+  },
+  {
+    "Name": "Курица под соусом сальса",
+    "Link": "https://1000.menu/cooking/17",
+    "ImageLink": "https:////static.1000.menu/res/640/img/content/17/kuritsa-pod-sousom-salsa_1516294169_2_max.jpg",
+    "Rating": 11,
+    "ServingsNumber": 3,
+    "Calories": 122,
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Name": "Мёд",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Сок лайма",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 150,
+        "Name": "Ананасы",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 60,
+        "Name": "Огурцы",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Мята",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Сок лайма",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 4,
+        "Name": "Оливковое масло",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 600,
+        "Name": "Куриное филе",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 200,
+        "Name": "Лук репчатый",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 80,
+        "Name": "Перец чили",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Чеснок",
+        "Type": "зубч."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Имбирь",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Перец горошком",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1.5,
+        "Name": "Тмин",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 0.5,
+        "Name": "Бульон",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Соевый соус",
+        "Type": "стол.л."
+      }
+    ]
+  },
+  {
+    "Name": "Луковый суп с сыром и гренками",
+    "Link": "https://1000.menu/cooking/18",
+    "ImageLink": "https:////static.1000.menu/res/640/img/content/18/frantsuzskii-lukovji-sup_max_2486.JPG",
+    "Rating": 244,
+    "ServingsNumber": 10,
+    "Calories": 84,
+    "Ingredients": [
+      {
+        "Quantity": 8,
+        "Name": "Лук репчатый",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Чеснок",
+        "Type": "зубч."
+      },
+      {
+        "Quantity": 0.33,
+        "Name": "Оливковое масло",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Пшеничная мука",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 8,
+        "Name": "Бульон",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 0.25,
+        "Name": "Вино белое",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 0.5,
+        "Name": "Тмин",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Лавровый лист",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 0,
+        "Name": "Перец черный молотый",
+        "Type": "по вкусу"
+      },
+      {
+        "Quantity": 0,
+        "Name": "Соль",
+        "Type": "по вкусу"
+      },
+      {
+        "Quantity": 20,
+        "Name": "Белый хлеб",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 360,
+        "Name": "Твёрдый сыр",
+        "Type": "гр"
+      }
+    ]
+  },
+  {
+    "Name": "Фаршированные хлебцы",
+    "Link": "https://1000.menu/cooking/20",
+    "ImageLink": "https:////static.1000.menu/res/640/cookme/images/recipe/farshirovannje_hlebtsj_1286017713_10.jpg",
+    "Rating": 16,
+    "ServingsNumber": 3,
+    "Calories": 267,
+    "Ingredients": [
+      {
+        "Quantity": 180,
+        "Name": "Булочка",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Лук репчатый",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Салат-латук",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 2,
+        "Name": "Болгарский перец",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Помидоры",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 150,
+        "Name": "Салями",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 150,
+        "Name": "Ветчина",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 150,
+        "Name": "Курица",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 150,
+        "Name": "Твёрдый сыр",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 0.5,
+        "Name": "Майонез",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Оливковое масло",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Специи сухие",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 1.5,
+        "Name": "Базилик",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 0.25,
+        "Name": "Перец красный молотый",
+        "Type": "чайн.л."
       }
     ]
   }
