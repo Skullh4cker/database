@@ -2,7 +2,7 @@
   {
     "Name": "Крабовые лепешки с лимонно-укропным соусом",
     "Link": "https://1000.menu/cooking/12",
-    "ImageLink": "https:////static.1000.menu/res/640/img/content/12/krabovje-lepeshki-s-limonno-ukropnjm-sousom_1531208814_2_max.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/img/content/12/krabovje-lepeshki-s-limonno-ukropnjm-sousom_1531208814_2_max.jpg",
     "Rating": 26,
     "ServingsNumber": 4,
     "Calories": 299,
@@ -117,7 +117,7 @@
   {
     "Name": "Креветки на гриле (мангале) в чесночном соусе с медом",
     "Link": "https://1000.menu/cooking/13",
-    "ImageLink": "https:////static.1000.menu/res/640/img/content/13/krevetki-gril-v-chesnochnom-souse_1555040042_2_max.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/img/content/13/krevetki-gril-v-chesnochnom-souse_1555040042_2_max.jpg",
     "Rating": 84,
     "ServingsNumber": 4,
     "Calories": 297,
@@ -175,9 +175,74 @@
     ]
   },
   {
+    "Name": "Куриный пирог с сырным соусом",
+    "Link": "https://1000.menu/cooking/14",
+    "ImageLink": "https://static.1000.menu/res/640/img/content-v2/dc/56/14/kurinji-pirog-s-sjrnjm-sousom_1594818943_1_max.jpg",
+    "Rating": 15,
+    "ServingsNumber": 8,
+    "Calories": 239,
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Name": "Курица",
+        "Type": "шт."
+      },
+      {
+        "Quantity": 160,
+        "Name": "Моцарелла",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 100,
+        "Name": "Томатная паста",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Томатный соус",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 1,
+        "Name": "Жидкий дым",
+        "Type": "чайн.л."
+      },
+      {
+        "Quantity": 450,
+        "Name": "Пресное тесто",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Оливковое масло",
+        "Type": "стол.л."
+      },
+      {
+        "Quantity": 30,
+        "Name": "Пармезан",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 1,
+        "Name": "Сметана",
+        "Type": "стак."
+      },
+      {
+        "Quantity": 150,
+        "Name": "Твёрдый сыр",
+        "Type": "гр"
+      },
+      {
+        "Quantity": 30,
+        "Name": "Зелёный лук",
+        "Type": "гр"
+      }
+    ]
+  },
+  {
     "Name": "Курица с артишоками в лимонном соусе",
     "Link": "https://1000.menu/cooking/15",
-    "ImageLink": "https:////static.1000.menu/res/640/cookme/images/recipe/kuritsa_s_artishokami_v_limonnom_souse_1286017712_5.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/cookme/images/recipe/kuritsa_s_artishokami_v_limonnom_souse_1286017712_5.jpg",
     "Rating": 17,
     "ServingsNumber": 3,
     "Calories": 105,
@@ -242,7 +307,7 @@
   {
     "Name": "Куриная грудка в духовке с картошкой и сыром",
     "Link": "https://1000.menu/cooking/16",
-    "ImageLink": "https:////static.1000.menu/res/640/img/content/28835/kurinaya-grudka-s-kartoshkoi-v-duxovke_1537678667_14_max.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/img/content/28835/kurinaya-grudka-s-kartoshkoi-v-duxovke_1537678667_14_max.jpg",
     "Rating": 68,
     "ServingsNumber": 4,
     "Calories": 129,
@@ -297,7 +362,7 @@
   {
     "Name": "Курица под соусом сальса",
     "Link": "https://1000.menu/cooking/17",
-    "ImageLink": "https:////static.1000.menu/res/640/img/content/17/kuritsa-pod-sousom-salsa_1516294169_2_max.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/img/content/17/kuritsa-pod-sousom-salsa_1516294169_2_max.jpg",
     "Rating": 11,
     "ServingsNumber": 3,
     "Calories": 122,
@@ -387,7 +452,7 @@
   {
     "Name": "Луковый суп с сыром и гренками",
     "Link": "https://1000.menu/cooking/18",
-    "ImageLink": "https:////static.1000.menu/res/640/img/content/18/frantsuzskii-lukovji-sup_max_2486.JPG",
+    "ImageLink": "https://static.1000.menu/res/640/img/content/18/frantsuzskii-lukovji-sup_max_2486.JPG",
     "Rating": 244,
     "ServingsNumber": 10,
     "Calories": 84,
@@ -457,7 +522,7 @@
   {
     "Name": "Фаршированные хлебцы",
     "Link": "https://1000.menu/cooking/20",
-    "ImageLink": "https:////static.1000.menu/res/640/cookme/images/recipe/farshirovannje_hlebtsj_1286017713_10.jpg",
+    "ImageLink": "https://static.1000.menu/res/640/cookme/images/recipe/farshirovannje_hlebtsj_1286017713_10.jpg",
     "Rating": 16,
     "ServingsNumber": 3,
     "Calories": 267,
